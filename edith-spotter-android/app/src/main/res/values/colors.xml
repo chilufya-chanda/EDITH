@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the dashboard's real extracted theme exactly, not an approximation. -->
+    <color name="base">#06101D</color>
+    <color name="base_soft">#0A1A2D</color>
+    <color name="panel">#0F1E32</color>
+    <color name="panel2">#0B1826</color>
+    <color name="line">#1E3A52</color>
+    <color name="cyan">#42D9FF</color>
+    <color name="cyan_soft">#8BEAFF</color>
+    <color name="violet">#8B5CF6</color>
+    <color name="red">#EF4444</color>
+    <color name="amber">#F2A83C</color>
+    <color name="green">#34D399</color>
+    <color name="text">#EFF9FF</color>
+    <color name="text_dim">#9DB1C8</color>
+    <color name="text_mute">#6B7F96</color>
+</resources>

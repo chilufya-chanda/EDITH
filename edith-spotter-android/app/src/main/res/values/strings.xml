@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EDITH Spotter</string>
+    <string name="app_title">EDITH // SPOTTER</string>
+    <string name="app_subtitle">Embedded Detective &amp; Intelligent Tracking Hub</string>
+
+    <string name="label_server_url">BACKEND SERVER URL</string>
+    <string name="hint_server_url">https://your-space-name.hf.space</string>
+    <string name="label_device_name">DEVICE NAME</string>
+    <string name="hint_device_name">spotter-01</string>
+    <string name="test_connection">TEST CONNECTION</string>
+    <string name="start_spotting">START SPOTTING</string>
+    <string name="stop_spotting">STOP SPOTTING</string>
+    <string name="status_idle">Spotting is OFF.</string>
+    <string name="notification_channel_name">EDITH Spotting</string>
+    <string name="switch_camera">SWITCH CAMERA</string>
+    <string name="using_back_camera">Using back camera</string>
+    <string name="using_front_camera">Using front camera</string>
+
+    <string name="nav_home">HOME</string>
+    <string name="nav_cases">CASES</string>
+    <string name="nav_stats">STATS</string>
+
+    <string name="cases_title">ACTIVE CASES</string>
+    <string name="cases_subtitle">Currently searched-for people, consent-gated and activated by an officer</string>
+    <string name="cases_empty">No active cases right now.</string>
+    <string name="cases_near_you">ACTIVE NEAR YOU</string>
+    <string name="cases_elsewhere">ACTIVE ELSEWHERE</string>
+    <string name="cases_everywhere">SEARCHING EVERYWHERE</string>
+
+    <string name="stats_title">STATISTICS</string>
+    <string name="stats_subtitle">This device\'s spotting activity</string>
+    <string name="stats_sightings">SIGHTINGS REPORTED</string>
+    <string name="stats_uptime">SESSION UPTIME</string>
+    <string name="stats_active_cases">ACTIVE CASES WATCHED</string>
+    <string name="stats_last_sync">LAST SYNC</string>
+    <string name="stats_never">never</string>
+</resources>

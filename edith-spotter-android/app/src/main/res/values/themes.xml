@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EdithSpotter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/cyan</item>
+        <item name="colorPrimaryDark">@color/base</item>
+        <item name="colorAccent">@color/violet</item>
+        <item name="android:windowBackground">@color/base</item>
+        <item name="android:statusBarColor">@color/base</item>
+    </style>
+</resources>

@@ -1,0 +1,62 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# FastAPI
+uploads/
+logs/
+
+# React / Node
+node_modules/
+dist/
+build/
+.next/
+.vite/
+coverage/
+
+# Android / Gradle
+.gradle/
+.idea/
+*.iml
+local.properties
+**/build/
+
+# Android signing keys
+*.jks
+*.keystore
+
+# Firebase credentials
+service-account*.json
+firebase-adminsdk*.json
+
+# Logs
+*.log
+
+# Windows / Mac
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
